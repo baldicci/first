@@ -17,3 +17,5 @@ AAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 
 
 I don't understand this bullshit :D 
+
+you clone a repository t your file system ones and then can just pull and push files with updates
