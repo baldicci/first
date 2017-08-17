@@ -6,6 +6,14 @@ This is an extra note added to the mars file
 it also has radiation
 
 
+<<<<<<< HEAD
 and aliens
 
 smelly
+=======
+BANANNANANANNANANANANNANANANNANANANANNANANANANANAANAN
+AAAAAAAAAAAAAAAAAAAAAAAPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+>>>>>>> cb62c88f6c1f49b394b4936bffa11aeaa9b15343
+
+
+I don't understand this bullshit :D 
