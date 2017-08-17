@@ -1,0 +1,7 @@
+*.dat
+
+!a.dat
+
+results/data_1/*.dat
+
+data/*.dat
